@@ -1,0 +1,6 @@
+framework module Pods_Fire_Chat {
+  umbrella header "Pods-Fire Chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
